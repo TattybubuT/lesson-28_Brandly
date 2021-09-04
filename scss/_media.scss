@@ -1,0 +1,7 @@
+@media (max-width: 991.98px) {
+    .header {
+      &__nav-item + &__nav-item {
+        margin-left: 0;
+      }
+    }
+  }
